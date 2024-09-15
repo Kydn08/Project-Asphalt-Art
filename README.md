@@ -32,4 +32,4 @@ I am very proud that I was able to use what I know to make art from code. I am p
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   I do wish my projec was more artsy, it doesn't really look to nice but I did try my very best.
+   I do wish my project was more artsy, it doesn't really look to nice but I did try my very best.
