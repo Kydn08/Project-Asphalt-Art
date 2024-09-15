@@ -23,13 +23,13 @@ put sketch/ Final image here
 ## Reflection
 
 1. Describe your project.
-
-   - Write your response here...
+I have made a flower using a light blue as the background, green for the stem, yellow for the center and red for the petals.
+ 
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+I am very proud that I was able to use what I know to make art from code. I am proud I was able to complete it without much trouble. 
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   I do wish my projec was more artsy, it doesn't really look to nice but I did try my very best.
